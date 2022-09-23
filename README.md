@@ -1,4 +1,4 @@
 # django_app
 Django アプリ
 
-[Django]: https://docs.djangoproject.com/ja/4.1/intro/ "Django公式ドキュメント"
+[Django公式ドキュメント](https://docs.djangoproject.com/ja/4.1/intro/)
